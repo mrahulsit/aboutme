@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rahul! 🚀Full Stack Developer | Web Enthusiast | Problem Solver
+I am a Electrical and Electronics Engineering graduate with expertise in MERN stack web development, and extensive experience in Python and Java coding. My portfolio includes a variety of projects demonstrating my skills in responsive web design, IoT, and electrical-based projects. I am eager to apply my technical proficiency and problem-solving abilities in a dynamic software development role.
 
 
 ## 🌐 Socials:
